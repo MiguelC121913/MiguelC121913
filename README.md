@@ -47,16 +47,19 @@
 
 #### 💰 [SmartBudget](https://github.com/MiguelC121913/SmartBudget) — *AI Budget Tracker*
 Full-stack budgeting app with AI-powered categorization and monthly reports. Features **AES-256-GCM encryption**, **BYOK system**, and **bilingual support (ES/EN)**.
+
 **Stack:** React 19 · Express · MongoDB · Anthropic Claude API
 🔗 [Live demo](https://smartbudget-chi.vercel.app)
 
 #### 📈 [StockTrack](https://github.com/MiguelC121913/StockTrack) — *Stock Portfolio Dashboard*
 Real-time portfolio dashboard with retrospective backtesting. Built with **Server Actions**, **cache stratification** (reduces external API calls by ~90%), and **strict TypeScript**.
+
 **Stack:** Next.js 16 · TypeScript · NextAuth · MongoDB · Twelve Data API
 🔗 [Live demo](https://stocktrack-iota.vercel.app)
 
 #### 🎓 [CAPUN](https://github.com/MiguelC121913/CAPUN) — *School Progress Platform*
 Production system serving a non-profit that supports children with intellectual disabilities. Real users, ~50% reduction in lookup time vs. physical archives.
+
 **Stack:** Vanilla JS · Node.js · Express · MongoDB · JWT
 🔗 [Live deployment](https://capunservicio-gif.github.io/capun-web/)
 
@@ -67,6 +70,16 @@ Production system serving a non-profit that supports children with intellectual 
 - 🏆 **EGEL PLUS ISOFT** — Satisfactory result (March 2026)
 - 🔬 **Delfín Program 2026** — Selected for Web Technologies & IoT research line
 - 🇬🇧 **English B2** — Professional Working Proficiency
+
+---
+
+### ⚡ Quick Facts
+
+- 🌱 Currently building: **StockTrack** — production-grade portfolio dashboard
+- 💼 Open to: **Junior / Mid Full-Stack** roles (Remote / Hybrid / On-site in Hermosillo)
+- 📚 Recently certified: **EGEL PLUS ISOFT (Satisfactory)**
+- 🎮 Outside code: **Top 1 Hermosillo** in Super Smash Bros. Ultimate (yes, really)
+- ⚙️ Workflow: **AI-assisted development** (Claude Code) + manual review + conventional commits
 
 ---
 
@@ -81,14 +94,10 @@ Production system serving a non-profit that supports children with intellectual 
   </a>
 </p>
 
-<p align="center"><em>Open to Junior / Mid Full-Stack roles in FinTech, digital banking, SaaS, and remote-first companies.</em></p>
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelC121913&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <em>Open to Junior / Mid Full-Stack roles in FinTech, digital banking, SaaS, and remote-first companies.</em>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelC121913&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <em>Always learning · Always shipping · Always documenting</em>
 </p>
