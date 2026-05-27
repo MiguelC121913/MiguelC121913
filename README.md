@@ -78,7 +78,6 @@ Production system serving a non-profit that supports children with intellectual 
 - 🌱 Currently building: **StockTrack** — production-grade portfolio dashboard
 - 💼 Open to: **Junior / Mid Full-Stack** roles (Remote / Hybrid / On-site in Hermosillo)
 - 📚 Recently certified: **EGEL PLUS ISOFT (Satisfactory)**
-- 🎮 Outside code: **Top 1 Hermosillo** in Super Smash Bros. Ultimate (yes, really)
 - ⚙️ Workflow: **AI-assisted development** (Claude Code) + manual review + conventional commits
 
 ---
