@@ -85,7 +85,7 @@ Production system serving a non-profit that supports children with intellectual 
 
 - 🏆 **EGEL PLUS ISOFT** — Satisfactory result (March 2026)
 - 🔬 **Delfín Program 2026** — Architecture & AI Lead, Web Technologies & IoT research line
-- 🎓 **B.S. Information Systems Engineering** — Universidad de Sonora (UNISON), graduating August 2026
+- 🎓 **B.S. Information Systems Engineering** — Universidad de Sonora (UNISON)
 - 🇬🇧 **English B2** — Professional Working Proficiency
 
 ---
