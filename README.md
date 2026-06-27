@@ -1,12 +1,13 @@
 <h1 align="center">Hola, soy Miguel 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack JavaScript Developer</strong> · Hermosillo, México 🇲🇽
+  <strong>Full-Stack Developer</strong> · JavaScript / TypeScript / C# · Hermosillo, México 🇲🇽
 </p>
 
 <p align="center">
   Ingeniero en Sistemas de Información (UNISON · Egresando agosto 2026).<br>
-  Construyo aplicaciones full-stack con foco en arquitecturas modernas, seguridad y AI integration.
+  Construyo aplicaciones full-stack con foco en arquitecturas modernas, seguridad y AI integration.<br>
+  <strong>Contrato activo con cliente en Seattle, WA, USA · 100% Remoto · Disponibilidad inmediata</strong>
 </p>
 
 ---
@@ -16,30 +17,45 @@
 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Cloud & Tools**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **AI Integration**
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D77757?style=flat&logo=anthropic&logoColor=white)
+
+---
+
+### 💼 Professional Experience
+
+#### 🏢 Full Stack Developer — Confidential Client (Seattle, WA, USA) · *Remote*
+*June 2026 – Present · 12-month contract*
+
+Building an enterprise web application in **C# / .NET 9 / Blazor Server / Entity Framework Core** to replace an Excel-based vehicle dispatch workflow for a US-based metals company. Direct coordination with Product Owner. 100% remote.
 
 ---
 
@@ -58,7 +74,7 @@ Real-time portfolio dashboard with retrospective backtesting. Built with **Serve
 🔗 [Live demo](https://stocktrack-iota.vercel.app)
 
 #### 🎓 [CAPUN](https://github.com/MiguelC121913/CAPUN) — *School Progress Platform*
-Production system serving a non-profit that supports children with intellectual disabilities. Real users, ~50% reduction in lookup time vs. physical archives.
+Production system serving a non-profit that supports children with intellectual disabilities. Real users since Nov 2025, ~50% reduction in lookup time vs. physical archives.
 
 **Stack:** Vanilla JS · Node.js · Express · MongoDB · JWT
 🔗 [Live deployment](https://capunservicio-gif.github.io/capun-web/)
@@ -68,17 +84,18 @@ Production system serving a non-profit that supports children with intellectual 
 ### 🎓 Education & Recognition
 
 - 🏆 **EGEL PLUS ISOFT** — Satisfactory result (March 2026)
-- 🔬 **Delfín Program 2026** — Selected for Web Technologies & IoT research line
+- 🔬 **Delfín Program 2026** — Architecture & AI Lead, Web Technologies & IoT research line
 - 🇬🇧 **English B2** — Professional Working Proficiency
 
 ---
 
 ### ⚡ Quick Facts
 
-- 🌱 Currently building: **StockTrack** — production-grade portfolio dashboard
-- 💼 Open to: **Junior / Mid Full-Stack** roles (Remote / Hybrid / On-site in Hermosillo)
-- 📚 Recently certified: **EGEL PLUS ISOFT (Satisfactory)**
-- ⚙️ Workflow: **AI-assisted development** (Claude Code) + manual review + conventional commits
+- 💼 **Currently:** Full Stack Developer on active contract with US client (C#/.NET/Blazor)
+- 🌱 **Also building:** AI-native web applications (React · Next.js · Node.js · Claude API)
+- 🎯 **Open to:** Junior / Mid Full-Stack roles (Remote preferred)
+- ⚙️ **Workflow:** AI-assisted development (Claude Code) + manual review + conventional commits
+- 📍 **Location:** Hermosillo, México (Mountain Time — US-aligned)
 
 ---
 
