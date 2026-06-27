@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Information Systems Engineering student (UNISON · Graduating August 2026).<br>
+  Bachelor’s Degree in Information Systems Engineering, Universidad de Sonora (July 2026).<br>
   I build full-stack applications focused on modern architectures, security, and AI integration.<br>
   <strong>Active contract with client in Seattle, WA, USA · 100% Remote · Available immediately</strong>
 </p>
