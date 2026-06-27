@@ -1,13 +1,13 @@
-<h1 align="center">Hola, soy Miguel 👋</h1>
+<h1 align="center">Hi, I'm Miguel 👋</h1>
 
 <p align="center">
   <strong>Full-Stack Developer</strong> · JavaScript / TypeScript / C# · Hermosillo, México 🇲🇽
 </p>
 
 <p align="center">
-  Ingeniero en Sistemas de Información (UNISON · Egresando agosto 2026).<br>
-  Construyo aplicaciones full-stack con foco en arquitecturas modernas, seguridad y AI integration.<br>
-  <strong>Contrato activo con cliente en Seattle, WA, USA · 100% Remoto · Disponibilidad inmediata</strong>
+  Information Systems Engineering student (UNISON · Graduating August 2026).<br>
+  I build full-stack applications focused on modern architectures, security, and AI integration.<br>
+  <strong>Active contract with client in Seattle, WA, USA · 100% Remote · Available immediately</strong>
 </p>
 
 ---
@@ -85,6 +85,7 @@ Production system serving a non-profit that supports children with intellectual 
 
 - 🏆 **EGEL PLUS ISOFT** — Satisfactory result (March 2026)
 - 🔬 **Delfín Program 2026** — Architecture & AI Lead, Web Technologies & IoT research line
+- 🎓 **B.S. Information Systems Engineering** — Universidad de Sonora (UNISON), graduating August 2026
 - 🇬🇧 **English B2** — Professional Working Proficiency
 
 ---
